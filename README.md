@@ -1,30 +1,104 @@
-# 티맵(Tax Map) 프로젝트
+# 🌳 티맵(Tax Map) 프로젝트
 
-## 개요
-티맵 프로젝트는 개인이 납부한 세금이 공공 프로젝트에 어떻게 사용되는지 직관적으로 시각화하여 제공함으로써, 세금 지출의 투명성과 이해를 증진하고자 합니다. 이는 세금에 대한 공공의 호기심과 우려를 해결하고, 인구 변화와 경제적 요인으로 인한 정부 세수 기반의 약화 가능성에 대응하기 위한 노력의 일환입니다.
+<div align="center">
+  <img src="https://example.com/tax-map-logo.png" alt="Tax Map Logo" width="200">
+</div>
 
-## 프로젝트 목표
-- **투명성 및 인사이트 제공:** 사용자 친화적이고 직관적인 시각 자료를 통해 세금 지출에 대한 직접적인 통찰력을 제공하고, 세금의 가치 및 중요성에 대한 이해와 인식을 높입니다.
-- **공공 참여 강화:** 세금 사용에 대한 국민들의 직접적인 의견을 수집하는 통로 역할을 하여 세금 의식을 향상시키고, 더 많은 정보를 가진 시민을 만드는 것을 목표로 합니다.
+티맵 프로젝트는 세금 지출의 투명성과 이해를 높이고자 개인 납세액이 어떻게 공공 프로젝트에 사용되는지 쉽게 시각화하여 제공하는 서비스입니다.
 
-## 프로젝트 범위
-- **진행 기간:** 3월 17일부터 6월 12일까지
-- **도전 과제:** 세금과 관련된 도메인 지식의 부재와 관련 공공 데이터의 이용에 있어 주의가 필요합니다. 잘못된 정보와 데이터 사용을 방지하여 부정적인 인식을 전달하지 않도록 노력합니다.
+[![Project Status](https://img.shields.io/badge/status-active-brightgreen)](https://example.com)
+[![License](https://img.shields.io/badge/license-MIT-blue)](https://opensource.org/licenses/MIT)
 
-## 방법론
-프로젝트는 세 가지 주요 구성 요소로 나뉩니다:
-1. **데이터 분석:** 파이썬 라이브러리를 활용해 전처리하고 정부 보조금 데이터에서 가치 있는 인사이트를 추출합니다.
-2. **프론트엔드 개발:** React를 사용하여 상호작용적이고 반응형 웹 애플리케이션을 개발하며, 사용자 경험과 디자인에 중점을 둡니다.
-3. **백엔드 개발:** Spring Boot를 사용하여 서버 사이드 작업을 처리하고, AWS 클라우드 서비스와 Docker 컨테이너화를 통해 견고한 인프라를 구축합니다.
+## 🎯 프로젝트 목표
 
-## 기대 효과
-- **세금 투명성 증진:** 세금 지출 데이터를 접근 가능하고 이해하기 쉽게 만들어, 세금 사용에 대한 공공의 신뢰와 지식을 높일 것으로 기대됩니다.
-- **정부-국민 간 소통 개선:** 세금 지출에 대한 직접적인 피드백을 통해 정책 결정 과정에 국민 의견이 반영되어 민주적 거버넌스를 강화합니다.
-- **책임 있는 세금 문화 조성:** 세금의 가치와 중요성에 대한 국민들의 인식을 높여 성실한 납세 문화를 정착시키고 안정적인 세수 기반을 마련할 수 있을 것입니다.
+- **투명성 및 인사이트 제공:** 시각화된 자료로 세금 지출에 대한 통찰력 제공 및 세금의 가치 이해도 향상
+- **공공 참여 강화:** 세금 사용에 대한 국민 의견 수렴으로 세금 의식 고취 및 정보 공유
 
-## 팀 구성
-- **정승환 (팀장):** 프로젝트 관리 및 모든 영역 지원
-- **박기문:** 백엔드 개발
-- **박지현:** 프론트엔드 개발 및 웹 디자인
-- **전우현:** 데이터 분석
+## 🧰 기술 스택
 
+### 프론트엔드
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="40" height="40"/>
+</div>
+
+### 백엔드
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="40" height="40"/>
+</div>
+
+### 데이터 분석
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" width="40" height="40"/>
+</div>
+
+### 인프라
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" width="40" height="40"/>
+</div>
+
+## 🚀 프로젝트 기간
+
+- **시작:** 2023년 3월 17일
+- **종료 예정:** 2023년 6월 12일
+
+## 👥 팀 구성
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/seunghwanjeong">
+        <img src="https://avatars.githubusercontent.com/u/12345?v=4" width="100px;" alt=""/>
+        <br />
+        <sub><b>정승환</b></sub>
+      </a>
+      <br />
+      팀장
+      <br />
+      프로젝트 관리
+    </td>
+    <td align="center">
+      <a href="https://github.com/kmpark">
+        <img src="https://avatars.githubusercontent.com/u/67890?v=4" width="100px;" alt=""/>
+        <br />
+        <sub><b>박기문</b></sub>
+      </a>
+      <br />
+      백엔드 개발
+    </td>
+    <td align="center">
+      <a href="https://github.com/jhpark">
+        <img src="https://avatars.githubusercontent.com/u/54321?v=4" width="100px;" alt=""/>
+        <br />
+        <sub><b>박지현</b></sub>
+      </a>
+      <br />
+      프론트엔드 개발
+      <br />
+      웹 디자인  
+    </td>
+    <td align="center">
+      <a href="https://github.com/whjeon">
+        <img src="https://avatars.githubusercontent.com/u/98765?v=4" width="100px;" alt=""/>
+        <br />
+        <sub><b>전우현</b></sub>
+      </a>
+      <br />
+      데이터 분석    
+    </td>
+  </tr>
+</table>
+
+## 📚 참고 자료
+
+- 공공 데이터 플랫폼 및 정부 API 
+- 세금 인식 및 재정 정책 관련 연구 자료
+
+---
+
+> 세금은 사회를 지탱하는 근간입니다. 티맵 프로젝트를 통해 세금의 가치를 재조명하고, 투명성과 신뢰를 바탕으로 더 나은 미래를 만들어 갑시다.
