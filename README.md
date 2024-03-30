@@ -52,8 +52,8 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/seunghwanjeong">
-        <img src="https://avatars.githubusercontent.com/u/12345?v=4" width="100px;" alt=""/>
+      <a href="">
+        <img src="" width="100px;" alt=""/>
         <br />
         <sub><b>정승환</b></sub>
       </a>
@@ -63,8 +63,8 @@
       프로젝트 관리
     </td>
     <td align="center">
-      <a href="https://github.com/kmpark">
-        <img src="https://avatars.githubusercontent.com/u/67890?v=4" width="100px;" alt=""/>
+      <a href="">
+        <img src="" width="100px;" alt="nothing"/>
         <br />
         <sub><b>박기문</b></sub>
       </a>
@@ -72,8 +72,8 @@
       백엔드 개발
     </td>
     <td align="center">
-      <a href="https://github.com/jhpark">
-        <img src="https://avatars.githubusercontent.com/u/54321?v=4" width="100px;" alt=""/>
+      <a href="">
+        <img src="" width="100px;" alt="nothing"/>
         <br />
         <sub><b>박지현</b></sub>
       </a>
@@ -83,8 +83,8 @@
       웹 디자인  
     </td>
     <td align="center">
-      <a href="https://github.com/whjeon">
-        <img src="https://avatars.githubusercontent.com/u/98765?v=4" width="100px;" alt=""/>
+      <a href="">
+        <img src="" width="100px;" alt="nothing"/>
         <br />
         <sub><b>전우현</b></sub>
       </a>
